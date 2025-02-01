@@ -1,3 +1,3 @@
 # Stupid-Idiots-United
 
-yes
+no
